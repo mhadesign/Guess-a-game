@@ -1,0 +1,10 @@
+.player_one_error,.player_two_error {
+  display: inline-block;
+  color: yellow;
+  /* padding: 2px 10px; */
+  background: green;
+}
+.error {
+  color: red;
+  background: #fcdcdf;
+}
